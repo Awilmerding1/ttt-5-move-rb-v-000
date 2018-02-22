@@ -7,5 +7,6 @@ def display_board(board)
 end
 
 def index_to_value(user_input)
+  puts 
   
   
